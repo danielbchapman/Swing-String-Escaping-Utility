@@ -1,0 +1,1 @@
+This project is a simple String escaping utility that is created to get around HEREDOC, SQL, EJBQL and any other time you want some formatting in your code for a long string. This project is open to use and does not imply a license of any time.
